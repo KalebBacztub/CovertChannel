@@ -1,0 +1,799 @@
+{
+  "trial_id": "45f4b847-6c0d-4dc3-a9fa-215d37e9a271",
+  "iface": "ens18",
+  "capture_duration_seconds": 22.226001148999785,
+  "packets": [
+    {
+      "seq": 0,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8488.848285132
+    },
+    {
+      "seq": 1,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8489.083751485
+    },
+    {
+      "seq": 2,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8489.333568702
+    },
+    {
+      "seq": 3,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8489.583599328
+    },
+    {
+      "seq": 4,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8489.8336071
+    },
+    {
+      "seq": 5,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8490.083402787
+    },
+    {
+      "seq": 6,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8490.335451401
+    },
+    {
+      "seq": 7,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8490.583452376
+    },
+    {
+      "seq": 8,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8490.833445462
+    },
+    {
+      "seq": 9,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8491.083545166
+    },
+    {
+      "seq": 10,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8491.333631103
+    },
+    {
+      "seq": 11,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8491.583461767
+    },
+    {
+      "seq": 12,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8491.835457143
+    },
+    {
+      "seq": 13,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8492.083706139
+    },
+    {
+      "seq": 14,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8492.333359892
+    },
+    {
+      "seq": 15,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8492.583658105
+    },
+    {
+      "seq": 16,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8492.833489549
+    },
+    {
+      "seq": 17,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8493.083541082
+    },
+    {
+      "seq": 18,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8493.333596805
+    },
+    {
+      "seq": 19,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8493.583547802
+    },
+    {
+      "seq": 20,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8493.833497848
+    },
+    {
+      "seq": 21,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8494.083520507
+    },
+    {
+      "seq": 22,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8494.335447716
+    },
+    {
+      "seq": 23,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8494.583565658
+    },
+    {
+      "seq": 24,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8494.835474162
+    },
+    {
+      "seq": 25,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8495.08363796
+    },
+    {
+      "seq": 26,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8495.333575751
+    },
+    {
+      "seq": 27,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8495.585474328
+    },
+    {
+      "seq": 28,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8495.833541975
+    },
+    {
+      "seq": 29,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8496.0837982
+    },
+    {
+      "seq": 30,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8496.333464488
+    },
+    {
+      "seq": 31,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8496.585532518
+    },
+    {
+      "seq": 32,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8496.833404632
+    },
+    {
+      "seq": 33,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8497.0835334
+    },
+    {
+      "seq": 34,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8497.333449701
+    },
+    {
+      "seq": 35,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8497.58562914
+    },
+    {
+      "seq": 36,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8497.833494362
+    },
+    {
+      "seq": 37,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8498.083723987
+    },
+    {
+      "seq": 38,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8498.333515497
+    },
+    {
+      "seq": 39,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8498.583643434
+    },
+    {
+      "seq": 40,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8498.83350304
+    },
+    {
+      "seq": 41,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8499.083637499
+    },
+    {
+      "seq": 42,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8499.333678654
+    },
+    {
+      "seq": 43,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8499.583524305
+    },
+    {
+      "seq": 44,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8499.833470433
+    },
+    {
+      "seq": 45,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8500.083398036
+    },
+    {
+      "seq": 46,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8500.333551881
+    },
+    {
+      "seq": 47,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8500.585383521
+    },
+    {
+      "seq": 48,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8500.833577495
+    },
+    {
+      "seq": 49,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8501.083578063
+    },
+    {
+      "seq": 50,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8501.333567563
+    },
+    {
+      "seq": 51,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8501.586518548
+    },
+    {
+      "seq": 52,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8501.835556564
+    },
+    {
+      "seq": 53,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8502.08350459
+    },
+    {
+      "seq": 54,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8502.333457769
+    },
+    {
+      "seq": 55,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8502.582389308
+    },
+    {
+      "seq": 56,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8502.835583187
+    },
+    {
+      "seq": 57,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8503.083572068
+    },
+    {
+      "seq": 58,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8503.33356862
+    },
+    {
+      "seq": 59,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8503.583732483
+    },
+    {
+      "seq": 60,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8503.833550313
+    },
+    {
+      "seq": 61,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8504.083771432
+    },
+    {
+      "seq": 62,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8504.333447297
+    },
+    {
+      "seq": 63,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8504.583468474
+    },
+    {
+      "seq": 64,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8504.833530819
+    },
+    {
+      "seq": 65,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8505.083616808
+    },
+    {
+      "seq": 66,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8505.333622456
+    },
+    {
+      "seq": 67,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8505.582496758
+    },
+    {
+      "seq": 68,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8505.835543091
+    },
+    {
+      "seq": 69,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8506.083607041
+    },
+    {
+      "seq": 70,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8506.332300406
+    },
+    {
+      "seq": 71,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8506.583500209
+    },
+    {
+      "seq": 72,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8506.833397867
+    },
+    {
+      "seq": 73,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8507.083486139
+    },
+    {
+      "seq": 74,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8507.333694606
+    },
+    {
+      "seq": 75,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8507.583676911
+    },
+    {
+      "seq": 76,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8507.835542235
+    },
+    {
+      "seq": 77,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8508.083488617
+    },
+    {
+      "seq": 78,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8508.333678198
+    },
+    {
+      "seq": 79,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8508.58356187
+    },
+    {
+      "seq": 80,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8508.833459878
+    },
+    {
+      "seq": 81,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8509.083568949
+    },
+    {
+      "seq": 82,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8509.333604133
+    },
+    {
+      "seq": 83,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8509.583644416
+    },
+    {
+      "seq": 84,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8509.833424244
+    },
+    {
+      "seq": 85,
+      "total": 88,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 8510.08358886
+    },
+    {
+      "seq": 86,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8510.333533855
+    },
+    {
+      "seq": 87,
+      "total": 88,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 8510.585560538
+    }
+  ]
+}

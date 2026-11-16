@@ -1,0 +1,4 @@
+trial_id,condition,traffic,sent,received_unique,lost,loss_rate,bit_errors,bit_erasures,bit_error_rate_observed,message_success,modified_options,unexpected_options,duplicate_packets,out_of_range_packets,trial_seconds,goodput_bps,security_alert,firewall_drop,rule_match
+1d51ab5c-b9e7-4521-9f32-444f56287445,warden_header,benign-no-options,8,8,0,0.0,,,,,0,0,0,0,41.75786092499038,,,,
+3f3ab9c1-9e62-4a8a-937b-7a0bd8807650,warden_header,benign-options,8,8,0,0.0,,,,,8,8,0,0,41.7578697919962,,,,
+867da47f-f5e9-49d6-83ae-5d7d13069ce5,warden_header,covert,8,8,0,0.0,0,8,,False,8,8,0,0,41.759092280990444,0.0,,,

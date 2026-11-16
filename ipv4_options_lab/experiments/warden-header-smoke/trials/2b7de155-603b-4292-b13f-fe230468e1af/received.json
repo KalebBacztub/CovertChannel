@@ -1,0 +1,79 @@
+{
+  "trial_id": "2b7de155-603b-4292-b13f-fe230468e1af",
+  "iface": "ens18",
+  "capture_duration_seconds": 2.2379667880013585,
+  "packets": [
+    {
+      "seq": 0,
+      "total": 8,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 192788.41394525
+    },
+    {
+      "seq": 1,
+      "total": 8,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 192788.649274693
+    },
+    {
+      "seq": 2,
+      "total": 8,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 192788.899206849
+    },
+    {
+      "seq": 3,
+      "total": 8,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 192789.149183792
+    },
+    {
+      "seq": 4,
+      "total": 8,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 192789.399117251
+    },
+    {
+      "seq": 5,
+      "total": 8,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 192789.649173932
+    },
+    {
+      "seq": 6,
+      "total": 8,
+      "decoded_bit": 0,
+      "options_hex": "01010101",
+      "ttl": 63,
+      "checksum": 55641,
+      "arrival_monotonic": 192789.899282198
+    },
+    {
+      "seq": 7,
+      "total": 8,
+      "decoded_bit": 1,
+      "options_hex": "0101010101010101",
+      "ttl": 63,
+      "checksum": 54867,
+      "arrival_monotonic": 192790.149408387
+    }
+  ]
+}

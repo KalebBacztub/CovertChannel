@@ -1,0 +1,79 @@
+{
+  "trial_id": "867da47f-f5e9-49d6-83ae-5d7d13069ce5",
+  "iface": "ens18",
+  "capture_duration_seconds": 2.2030218789877836,
+  "packets": [
+    {
+      "seq": 0,
+      "total": 8,
+      "decoded_bit": null,
+      "options_hex": "",
+      "ttl": 63,
+      "checksum": 56415,
+      "arrival_monotonic": 193540.052284433
+    },
+    {
+      "seq": 1,
+      "total": 8,
+      "decoded_bit": null,
+      "options_hex": "",
+      "ttl": 63,
+      "checksum": 56415,
+      "arrival_monotonic": 193540.294726279
+    },
+    {
+      "seq": 2,
+      "total": 8,
+      "decoded_bit": null,
+      "options_hex": "",
+      "ttl": 63,
+      "checksum": 56415,
+      "arrival_monotonic": 193540.543545268
+    },
+    {
+      "seq": 3,
+      "total": 8,
+      "decoded_bit": null,
+      "options_hex": "",
+      "ttl": 63,
+      "checksum": 56415,
+      "arrival_monotonic": 193540.794690661
+    },
+    {
+      "seq": 4,
+      "total": 8,
+      "decoded_bit": null,
+      "options_hex": "",
+      "ttl": 63,
+      "checksum": 56415,
+      "arrival_monotonic": 193541.043811323
+    },
+    {
+      "seq": 5,
+      "total": 8,
+      "decoded_bit": null,
+      "options_hex": "",
+      "ttl": 63,
+      "checksum": 56415,
+      "arrival_monotonic": 193541.294733428
+    },
+    {
+      "seq": 6,
+      "total": 8,
+      "decoded_bit": null,
+      "options_hex": "",
+      "ttl": 63,
+      "checksum": 56415,
+      "arrival_monotonic": 193541.543575461
+    },
+    {
+      "seq": 7,
+      "total": 8,
+      "decoded_bit": null,
+      "options_hex": "",
+      "ttl": 63,
+      "checksum": 56415,
+      "arrival_monotonic": 193541.794824084
+    }
+  ]
+}

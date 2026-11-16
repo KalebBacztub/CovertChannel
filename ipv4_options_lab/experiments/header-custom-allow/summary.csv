@@ -1,0 +1,4 @@
+condition,traffic,trials,message_success_rate,loss_rate,bit_erasure_rate,bit_error_rate_observed,mean_goodput_bps,modified_options,security_alert_rate,detection_rate,false_positive_rate,security_alert_evaluated,security_alert_unknown
+custom_ips_allow,benign-no-options,3,,0.0,,,,0,,,,0,3
+custom_ips_allow,benign-options,3,,0.0,,,,0,,,,0,3
+custom_ips_allow,covert,3,1.0,0.0,0.0,0.0,3.8345779244784075,0,,,,0,3

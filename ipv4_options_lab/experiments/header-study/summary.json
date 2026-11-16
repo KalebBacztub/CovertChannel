@@ -1,0 +1,50 @@
+[
+  {
+    "condition": "baseline",
+    "traffic": "benign-no-options",
+    "trials": 1,
+    "message_success_rate": null,
+    "loss_rate": 0.0,
+    "bit_erasure_rate": null,
+    "bit_error_rate_observed": null,
+    "mean_goodput_bps": null,
+    "modified_options": 0,
+    "security_alert_rate": null,
+    "detection_rate": null,
+    "false_positive_rate": null,
+    "security_alert_evaluated": 0,
+    "security_alert_unknown": 1
+  },
+  {
+    "condition": "baseline",
+    "traffic": "benign-options",
+    "trials": 1,
+    "message_success_rate": null,
+    "loss_rate": 0.0,
+    "bit_erasure_rate": null,
+    "bit_error_rate_observed": null,
+    "mean_goodput_bps": null,
+    "modified_options": 0,
+    "security_alert_rate": null,
+    "detection_rate": null,
+    "false_positive_rate": null,
+    "security_alert_evaluated": 0,
+    "security_alert_unknown": 1
+  },
+  {
+    "condition": "baseline",
+    "traffic": "covert",
+    "trials": 3,
+    "message_success_rate": 1.0,
+    "loss_rate": 0.0,
+    "bit_erasure_rate": 0.0,
+    "bit_error_rate_observed": 0.0,
+    "mean_goodput_bps": 3.553965646992653,
+    "modified_options": 0,
+    "security_alert_rate": null,
+    "detection_rate": null,
+    "false_positive_rate": null,
+    "security_alert_evaluated": 0,
+    "security_alert_unknown": 3
+  }
+]

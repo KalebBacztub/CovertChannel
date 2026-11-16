@@ -1,0 +1,16 @@
+{
+  "trial_id": "87ba8451-1d31-405d-8486-3aed351356a4",
+  "condition": "warden_pass",
+  "traffic": "benign-no-options",
+  "sender": "root@192.168.10.10",
+  "receiver": "root@192.168.20.10",
+  "sender_ip": "192.168.10.10",
+  "receiver_ip": "192.168.20.10",
+  "receiver_iface": "ens18",
+  "message_utf8_sha256": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+  "interval_seconds": 0.25,
+  "grace_seconds": 40.0,
+  "defense_note": "inline warden mode=passthrough; Sophos=LAN TO DMZ IPS enabled",
+  "config_sha256": null,
+  "started_utc": "2026-10-17T03:01:17Z"
+}

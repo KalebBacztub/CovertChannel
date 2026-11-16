@@ -1,0 +1,10 @@
+trial_id,condition,traffic,sent,received_unique,lost,loss_rate,bit_errors,bit_erasures,bit_error_rate_observed,message_success,modified_options,unexpected_options,duplicate_packets,out_of_range_packets,trial_seconds,goodput_bps,security_alert,firewall_drop,rule_match
+3b55c52f-9f0e-4521-bd00-43c8b064c740,baseline,covert,256,0,256,1.0,0,256,,False,0,0,0,0,66.75874869601103,0.0,,,
+423a38d2-b4d8-4f2f-9609-d19d1cca2a45,baseline,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.75939375098096,,,,
+4ffcedc9-ef8a-4800-a40a-1a6a45c923ab,baseline,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.7593602159759,,,,
+592b9fbc-9fd4-4ac5-885f-c72a389b73a6,baseline,benign-options,256,0,256,1.0,,,,,0,0,0,0,66.76183985598618,,,,
+62fd3588-85f8-489c-84e1-5780c33c7d3c,baseline,benign-options,256,0,256,1.0,,,,,0,0,0,0,66.761991839041,,,,
+728275cc-d77d-4c5e-8340-c6b34bebbc20,baseline,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.75874190201284,,,,
+8e6534dd-0175-493b-be1d-280c5b2df5e5,baseline,covert,256,0,256,1.0,0,256,,False,0,0,0,0,66.75971335096983,0.0,,,
+aa81d9d8-7e9c-4ac1-a286-b656966e9f0e,baseline,benign-options,256,0,256,1.0,,,,,0,0,0,0,66.75910816696705,,,,
+fb546d3d-d24b-4789-a620-a2eeb44b6185,baseline,covert,256,0,256,1.0,0,256,,False,0,0,0,0,66.75968153000576,0.0,,,

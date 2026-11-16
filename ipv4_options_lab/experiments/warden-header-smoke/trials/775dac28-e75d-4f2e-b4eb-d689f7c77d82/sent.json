@@ -1,0 +1,74 @@
+{
+  "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82",
+  "traffic": "benign-no-options",
+  "message": null,
+  "bit_count": 8,
+  "interval_seconds": 0.25,
+  "sender_duration_seconds": 1.757545842032414,
+  "packets": [
+    {
+      "seq": 0,
+      "expected_bit": null,
+      "options_hex": "",
+      "ttl": 64,
+      "checksum": 56159,
+      "sent_monotonic": 359873.992551108
+    },
+    {
+      "seq": 1,
+      "expected_bit": null,
+      "options_hex": "",
+      "ttl": 64,
+      "checksum": 56159,
+      "sent_monotonic": 359874.242826452
+    },
+    {
+      "seq": 2,
+      "expected_bit": null,
+      "options_hex": "",
+      "ttl": 64,
+      "checksum": 56159,
+      "sent_monotonic": 359874.492726557
+    },
+    {
+      "seq": 3,
+      "expected_bit": null,
+      "options_hex": "",
+      "ttl": 64,
+      "checksum": 56159,
+      "sent_monotonic": 359874.742769006
+    },
+    {
+      "seq": 4,
+      "expected_bit": null,
+      "options_hex": "",
+      "ttl": 64,
+      "checksum": 56159,
+      "sent_monotonic": 359874.992776149
+    },
+    {
+      "seq": 5,
+      "expected_bit": null,
+      "options_hex": "",
+      "ttl": 64,
+      "checksum": 56159,
+      "sent_monotonic": 359875.242934642
+    },
+    {
+      "seq": 6,
+      "expected_bit": null,
+      "options_hex": "",
+      "ttl": 64,
+      "checksum": 56159,
+      "sent_monotonic": 359875.492790857
+    },
+    {
+      "seq": 7,
+      "expected_bit": null,
+      "options_hex": "",
+      "ttl": 64,
+      "checksum": 56159,
+      "sent_monotonic": 359875.742694258
+    }
+  ]
+}

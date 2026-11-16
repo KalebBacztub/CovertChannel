@@ -1,0 +1,10 @@
+trial_id,condition,traffic,sent,received_unique,lost,loss_rate,bit_errors,bit_erasures,bit_error_rate_observed,message_success,modified_options,unexpected_options,duplicate_packets,out_of_range_packets,trial_seconds,goodput_bps,security_alert,firewall_drop,rule_match
+80aee9a0-892f-48de-96cb-d16d4fe1da01,custom_ips_drop,benign-options,256,0,256,1.0,,,,,0,0,0,0,66.7595238200156,,,,
+8985d195-055f-40e0-9742-217a2bedd240,custom_ips_drop,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.75916489001247,,,,
+a5add7e2-7bd2-4b7c-ba45-9f44ef37effc,custom_ips_drop,benign-options,256,0,256,1.0,,,,,0,0,0,0,66.75697214101092,,,,
+bb5f5bfd-8132-458d-a7cc-cecf399478b0,custom_ips_drop,benign-options,256,0,256,1.0,,,,,0,0,0,0,66.7591231020051,,,,
+bffcc8b2-8de6-48b5-822b-4e929486124e,custom_ips_drop,covert,256,0,256,1.0,0,256,,False,0,0,0,0,66.76197182800388,0.0,,,
+d589583a-719a-4088-ba63-62d8a570e806,custom_ips_drop,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.75849343999289,,,,
+d9d7ecd1-c22a-42dd-93cd-3675a31fd481,custom_ips_drop,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.7589015320118,,,,
+e0996261-7c8e-47e9-a382-2b089a8480df,custom_ips_drop,covert,256,0,256,1.0,0,256,,False,0,0,0,0,66.76204391400097,0.0,,,
+e70c8147-aa36-4ba1-8884-8f084d941ef0,custom_ips_drop,covert,256,0,256,1.0,0,256,,False,0,0,0,0,66.75946456199745,0.0,,,

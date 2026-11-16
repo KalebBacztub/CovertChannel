@@ -1,0 +1,38 @@
+{
+  "trial_id": "2b7de155-603b-4292-b13f-fe230468e1af",
+  "condition": "warden_pass",
+  "traffic": "covert",
+  "decoded_bitstring": "01000001",
+  "received_text": "A",
+  "unmatched_sequences": [],
+  "modified_sequences": [],
+  "evidence": {
+    "trial_id": "2b7de155-603b-4292-b13f-fe230468e1af",
+    "security_alert": "unknown",
+    "firewall_drop": "unknown",
+    "rule_match": "unknown",
+    "evidence_reference": ""
+  },
+  "metrics": {
+    "trial_id": "2b7de155-603b-4292-b13f-fe230468e1af",
+    "condition": "warden_pass",
+    "traffic": "covert",
+    "sent": 8,
+    "received_unique": 8,
+    "lost": 0,
+    "loss_rate": 0.0,
+    "bit_errors": 0,
+    "bit_erasures": 0,
+    "bit_error_rate_observed": 0.0,
+    "message_success": true,
+    "modified_options": 0,
+    "unexpected_options": 0,
+    "duplicate_packets": 0,
+    "out_of_range_packets": 0,
+    "trial_seconds": 41.758451054018224,
+    "goodput_bps": 0.1915779871636354,
+    "security_alert": null,
+    "firewall_drop": null,
+    "rule_match": null
+  }
+}

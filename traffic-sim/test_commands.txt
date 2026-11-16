@@ -1,0 +1,10 @@
+#DNS Single 
+python3 -c "from trafficSim_test import dns_query; dns_query('192.168.10.12','192.168.20.20')"
+
+#NTP Single
+python3 -c from trafficSim_test import ntp_cync; ntp_sync('192.168.10.13','192.168.20.20')
+
+#LDAP
+python3 -c from trafficSim_test import ldap_query; ldap_query('192.168.10.14','192.168.20.20')
+python3 -c from trafficSim_test.py import smb_touch; smb_touch('192.168.10.15','192.168.20.20')
+python3 -c from trafficSim_test import kerberos_exchange; kerberos_exchange('192.168.10.16','192.168.20.20')

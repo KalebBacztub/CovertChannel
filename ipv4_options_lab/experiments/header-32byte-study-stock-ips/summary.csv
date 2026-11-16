@@ -1,0 +1,4 @@
+condition,traffic,trials,message_success_rate,loss_rate,bit_erasure_rate,bit_error_rate_observed,mean_goodput_bps,modified_options,security_alert_rate,detection_rate,false_positive_rate,security_alert_evaluated,security_alert_unknown
+stock_ips_lan_dmz,benign-no-options,3,,0.0,,,,0,,,,0,3
+stock_ips_lan_dmz,benign-options,3,,0.0,,,,0,,,,0,3
+stock_ips_lan_dmz,covert,3,1.0,0.0,0.0,0.0,3.83465933935087,0,,,,0,3

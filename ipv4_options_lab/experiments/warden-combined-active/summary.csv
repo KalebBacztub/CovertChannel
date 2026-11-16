@@ -1,0 +1,4 @@
+condition,traffic,trials,message_success_rate,loss_rate,bit_erasure_rate,bit_error_rate_observed,mean_goodput_bps,modified_options,security_alert_rate,detection_rate,false_positive_rate,security_alert_evaluated,security_alert_unknown
+warden_all,benign-no-options,1,,0.0,,,,0,,,,0,1
+warden_all,benign-options,1,,0.0,,,,104,,,,0,1
+warden_all,covert,1,0.0,0.0,1.0,,0.0,104,,,,0,1

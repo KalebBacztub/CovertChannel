@@ -1,0 +1,38 @@
+{
+  "trial_id": "1d51ab5c-b9e7-4521-9f32-444f56287445",
+  "condition": "warden_header",
+  "traffic": "benign-no-options",
+  "decoded_bitstring": null,
+  "received_text": null,
+  "unmatched_sequences": [],
+  "modified_sequences": [],
+  "evidence": {
+    "trial_id": "1d51ab5c-b9e7-4521-9f32-444f56287445",
+    "security_alert": "unknown",
+    "firewall_drop": "unknown",
+    "rule_match": "unknown",
+    "evidence_reference": ""
+  },
+  "metrics": {
+    "trial_id": "1d51ab5c-b9e7-4521-9f32-444f56287445",
+    "condition": "warden_header",
+    "traffic": "benign-no-options",
+    "sent": 8,
+    "received_unique": 8,
+    "lost": 0,
+    "loss_rate": 0.0,
+    "bit_errors": null,
+    "bit_erasures": null,
+    "bit_error_rate_observed": null,
+    "message_success": null,
+    "modified_options": 0,
+    "unexpected_options": 0,
+    "duplicate_packets": 0,
+    "out_of_range_packets": 0,
+    "trial_seconds": 41.75786092499038,
+    "goodput_bps": null,
+    "security_alert": null,
+    "firewall_drop": null,
+    "rule_match": null
+  }
+}

@@ -1,0 +1,34 @@
+{"event": "listening", "role": "receiver", "trial_id": null, "channel": null, "time_utc": "2026-09-27T01:18:18Z", "interface": "ens18", "src": "192.168.10.10", "dst": "192.168.20.10"}
+{"event": "begin", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:20Z", "expected_packets": 8}
+{"event": "bit", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:20Z", "index": 0, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:20Z", "index": 1, "value": "1", "options_hex": "0101010101010101"}
+{"event": "bit", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:20Z", "index": 2, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:21Z", "index": 3, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:21Z", "index": 4, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:21Z", "index": 5, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:21Z", "index": 6, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:22Z", "index": 7, "value": "1", "options_hex": "0101010101010101"}
+{"event": "observed_byte", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:22Z", "byte_index": 0, "bits": "01000001", "character": "A"}
+{"event": "end_decoded", "role": "receiver", "trial_id": "c856160f-25bc-4aad-82d5-4b48e4a795ed", "channel": "header", "time_utc": "2026-09-27T01:18:22Z", "message": "A"}
+{"event": "begin", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:24Z", "expected_packets": 8}
+{"event": "bit", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:24Z", "index": 0, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:24Z", "index": 1, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:24Z", "index": 2, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:25Z", "index": 3, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:25Z", "index": 4, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:25Z", "index": 5, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:25Z", "index": 6, "value": "0", "options_hex": "01010101"}
+{"event": "bit", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:26Z", "index": 7, "value": "0", "options_hex": "01010101"}
+{"event": "observed_byte", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:26Z", "byte_index": 0, "bits": "00000000", "character": "[0x00]"}
+{"event": "end_decoded", "role": "receiver", "trial_id": "d52cf630-6287-4343-8c36-db51a6f1a72f", "channel": "header", "time_utc": "2026-09-27T01:18:26Z", "message": "\u0000"}
+{"event": "begin", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:28Z", "expected_packets": 8}
+{"event": "bit", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:28Z", "index": 0, "value": "?", "options_hex": ""}
+{"event": "bit", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:28Z", "index": 1, "value": "?", "options_hex": ""}
+{"event": "bit", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:28Z", "index": 2, "value": "?", "options_hex": ""}
+{"event": "bit", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:28Z", "index": 3, "value": "?", "options_hex": ""}
+{"event": "bit", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:29Z", "index": 4, "value": "?", "options_hex": ""}
+{"event": "bit", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:29Z", "index": 5, "value": "?", "options_hex": ""}
+{"event": "bit", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:29Z", "index": 6, "value": "?", "options_hex": ""}
+{"event": "bit", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:29Z", "index": 7, "value": "?", "options_hex": ""}
+{"event": "observed_byte", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:29Z", "byte_index": 0, "bits": "????????", "character": "[?]"}
+{"event": "end_undecodable", "role": "receiver", "trial_id": "775dac28-e75d-4f2e-b4eb-d689f7c77d82", "channel": "header", "time_utc": "2026-09-27T01:18:29Z", "bits_known": 0, "bits_total": 8}

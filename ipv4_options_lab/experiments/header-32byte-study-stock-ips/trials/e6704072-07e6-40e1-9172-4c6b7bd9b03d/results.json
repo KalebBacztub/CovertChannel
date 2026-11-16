@@ -1,0 +1,38 @@
+{
+  "trial_id": "e6704072-07e6-40e1-9172-4c6b7bd9b03d",
+  "condition": "stock_ips_lan_dmz",
+  "traffic": "covert",
+  "decoded_bitstring": "0100100001100101011000010110010001100101011100100010000001100010011000010111001101100101011011000110100101101110011001010010000000110000001100010011001000110011001101000011010100110110001101110011100000111001011000010110001001100011011001000110010101100110",
+  "received_text": "Header baseline 0123456789abcdef",
+  "unmatched_sequences": [],
+  "modified_sequences": [],
+  "evidence": {
+    "trial_id": "e6704072-07e6-40e1-9172-4c6b7bd9b03d",
+    "security_alert": "unknown",
+    "firewall_drop": "unknown",
+    "rule_match": "unknown",
+    "evidence_reference": ""
+  },
+  "metrics": {
+    "trial_id": "e6704072-07e6-40e1-9172-4c6b7bd9b03d",
+    "condition": "stock_ips_lan_dmz",
+    "traffic": "covert",
+    "sent": 256,
+    "received_unique": 256,
+    "lost": 0,
+    "loss_rate": 0.0,
+    "bit_errors": 0,
+    "bit_erasures": 0,
+    "bit_error_rate_observed": 0.0,
+    "message_success": true,
+    "modified_options": 0,
+    "unexpected_options": 0,
+    "duplicate_packets": 0,
+    "out_of_range_packets": 0,
+    "trial_seconds": 66.7593797770096,
+    "goodput_bps": 3.8346671412330964,
+    "security_alert": null,
+    "firewall_drop": null,
+    "rule_match": null
+  }
+}

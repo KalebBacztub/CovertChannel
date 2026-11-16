@@ -1,0 +1,3 @@
+/root/covert-lab/.venv/lib/python3.14/site-packages/scapy/layers/tls/crypto/groups.py:25: CryptographyDeprecationWarning: Diffie-Hellman over finite fields (FFDH) is deprecated and support will be removed in a future release. Use a more modern key exchange algorithm.
+  from cryptography.hazmat.primitives.asymmetric.dh import DHParameterNumbers
+{"trial_id": "b0243e15-fd41-4966-9406-be37eaff4ed5", "sent": 8}

@@ -1,0 +1,6 @@
+dnspython
+impacket
+ldap3
+ntplib
+scapy
+pyyaml

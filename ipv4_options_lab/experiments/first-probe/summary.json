@@ -1,0 +1,18 @@
+[
+  {
+    "condition": "baseline",
+    "traffic": "covert",
+    "trials": 1,
+    "message_success_rate": 1.0,
+    "loss_rate": 0.0,
+    "bit_erasure_rate": 0.0,
+    "bit_error_rate_observed": 0.0,
+    "mean_goodput_bps": 1.6805727271019448,
+    "modified_options": 0,
+    "security_alert_rate": null,
+    "detection_rate": null,
+    "false_positive_rate": null,
+    "security_alert_evaluated": 0,
+    "security_alert_unknown": 1
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "condition": "custom_ips_drop",
+    "traffic": "benign-no-options",
+    "trials": 3,
+    "message_success_rate": null,
+    "loss_rate": 0.0,
+    "bit_erasure_rate": null,
+    "bit_error_rate_observed": null,
+    "mean_goodput_bps": null,
+    "modified_options": 0,
+    "security_alert_rate": null,
+    "detection_rate": null,
+    "false_positive_rate": null,
+    "security_alert_evaluated": 0,
+    "security_alert_unknown": 3
+  },
+  {
+    "condition": "custom_ips_drop",
+    "traffic": "benign-options",
+    "trials": 3,
+    "message_success_rate": null,
+    "loss_rate": 1.0,
+    "bit_erasure_rate": null,
+    "bit_error_rate_observed": null,
+    "mean_goodput_bps": null,
+    "modified_options": 0,
+    "security_alert_rate": null,
+    "detection_rate": null,
+    "false_positive_rate": null,
+    "security_alert_evaluated": 0,
+    "security_alert_unknown": 3
+  },
+  {
+    "condition": "custom_ips_drop",
+    "traffic": "covert",
+    "trials": 3,
+    "message_success_rate": 0.0,
+    "loss_rate": 1.0,
+    "bit_erasure_rate": 1.0,
+    "bit_error_rate_observed": null,
+    "mean_goodput_bps": 0.0,
+    "modified_options": 0,
+    "security_alert_rate": null,
+    "detection_rate": null,
+    "false_positive_rate": null,
+    "security_alert_evaluated": 0,
+    "security_alert_unknown": 3
+  }
+]

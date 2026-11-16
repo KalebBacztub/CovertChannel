@@ -1,0 +1,4 @@
+condition,traffic,trials,message_success_rate,loss_rate,bit_erasure_rate,bit_error_rate_observed,mean_goodput_bps,modified_options,security_alert_rate,detection_rate,false_positive_rate,security_alert_evaluated,security_alert_unknown
+baseline_with_traffic,benign-no-options,3,,0.0,,,,0,,,,0,3
+baseline_with_traffic,benign-options,3,,0.0,,,,0,,,,0,3
+baseline_with_traffic,covert,3,1.0,0.0,0.0,0.0,3.8346626065070466,0,,,,0,3

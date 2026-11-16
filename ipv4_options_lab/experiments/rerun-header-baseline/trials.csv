@@ -1,0 +1,10 @@
+trial_id,condition,traffic,sent,received_unique,lost,loss_rate,bit_errors,bit_erasures,bit_error_rate_observed,message_success,modified_options,unexpected_options,duplicate_packets,out_of_range_packets,trial_seconds,goodput_bps,security_alert,firewall_drop,rule_match
+0573db52-b179-4c24-9947-527d49d7168f,baseline_with_traffic,covert,256,256,0,0.0,0,0,0.0,True,0,0,0,0,66.75921148500038,3.8346768079715665,,,
+1edd00c1-a352-4197-b2f9-20245e2ca248,baseline_with_traffic,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.7615883010003,,,,
+2ae7b04e-3191-4f88-b667-25e8e0421685,baseline_with_traffic,benign-options,256,256,0,0.0,,,,,0,0,0,0,66.75768022099965,,,,
+2ca8d3a8-27b2-4bdb-971d-bb08b46428fa,baseline_with_traffic,covert,256,256,0,0.0,0,0,0.0,True,0,0,0,0,66.75925078299952,3.834674550679519,,,
+56aeee33-66ed-4aa1-8352-f29a111a1574,baseline_with_traffic,benign-options,256,256,0,0.0,,,,,0,0,0,0,66.76198391200069,,,,
+818f5fdc-3d8f-4ee9-852b-90750ad9ba78,baseline_with_traffic,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.75869814100042,,,,
+dfb563ea-1651-4ebb-bc73-dd4a4674d51f,baseline_with_traffic,covert,256,256,0,0.0,0,0,0.0,True,0,0,0,0,66.75991390900072,3.834636460870054,,,
+ee62303a-1828-4d2a-9a3f-e7922a360a29,baseline_with_traffic,benign-options,256,256,0,0.0,,,,,0,0,0,0,66.75957851700059,,,,
+f1441f87-9bdd-43c4-aedd-a035188edb40,baseline_with_traffic,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.75948816600066,,,,

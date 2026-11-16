@@ -1,0 +1,10 @@
+trial_id,condition,traffic,sent,received_unique,lost,loss_rate,bit_errors,bit_erasures,bit_error_rate_observed,message_success,modified_options,unexpected_options,duplicate_packets,out_of_range_packets,trial_seconds,goodput_bps,security_alert,firewall_drop,rule_match
+01a23e85-d0ed-47dc-a15e-28b6aabc535b,stock_ips_lan_dmz,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.7593151339679,,,,
+08389172-d9cc-440f-919f-b3fb56090f0f,stock_ips_lan_dmz,benign-options,256,256,0,0.0,,,,,0,0,0,0,66.75934193399735,,,,
+33bbd053-115a-4709-b80c-274325bd0c2a,stock_ips_lan_dmz,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.75916709698504,,,,
+55ba85fc-cb9c-475d-93f5-0f9ab740c3da,stock_ips_lan_dmz,covert,256,256,0,0.0,0,0,0.0,True,0,0,0,0,66.75943621795159,3.8346638992610558,,,
+62174ef5-f1b6-4098-afe7-9753f1bd675b,stock_ips_lan_dmz,benign-options,256,256,0,0.0,,,,,0,0,0,0,66.75960177899105,,,,
+696dbed0-4dc4-4fdd-9ddb-45b965831c79,stock_ips_lan_dmz,covert,256,256,0,0.0,0,0,0.0,True,0,0,0,0,66.7597308169934,3.8346469775584584,,,
+c9342dae-f627-4607-a02f-358f063091d7,stock_ips_lan_dmz,benign-no-options,256,256,0,0.0,,,,,0,0,0,0,66.75874088099226,,,,
+e6704072-07e6-40e1-9172-4c6b7bd9b03d,stock_ips_lan_dmz,covert,256,256,0,0.0,0,0,0.0,True,0,0,0,0,66.7593797770096,3.8346671412330964,,,
+f0ed7a57-30a0-4674-9de7-c4a1e0abb71e,stock_ips_lan_dmz,benign-options,256,256,0,0.0,,,,,0,0,0,0,66.75976504100254,,,,

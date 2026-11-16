@@ -1,0 +1,33 @@
+{
+  "session_id": "20261017T032250Z-1ac0fe49",
+  "started_utc": "2026-10-17T03:22:50.651809+00:00",
+  "finished_utc": "2026-10-17T03:26:02.524316+00:00",
+  "channel": "header",
+  "condition": "warden_all",
+  "mode": "all",
+  "sophos_note": "LAN TO DMZ IPS enabled",
+  "run_dir": "/root/ipv4_options_lab/experiments/warden-combined-active",
+  "warden_pid": 10857,
+  "warden_source_log": "/root/warden_lab/runs/smoke_test_05.jsonl",
+  "nft_packets_before": 315,
+  "nft_packets_after": 627,
+  "new_trial_ids": [
+    "504125fc-de92-4ceb-8149-ef0e438dbf3e",
+    "59768760-59ff-42e3-bb12-c4ec32bb8574",
+    "5e1c0978-669f-417b-8f97-6421e2dc5f28"
+  ],
+  "warden_events_by_trial": {
+    "59768760-59ff-42e3-bb12-c4ec32bb8574": {
+      "buffer": 104,
+      "release": 104
+    },
+    "504125fc-de92-4ceb-8149-ef0e438dbf3e": {
+      "buffer": 104,
+      "release": 104
+    },
+    "5e1c0978-669f-417b-8f97-6421e2dc5f28": {
+      "buffer": 104,
+      "release": 104
+    }
+  }
+}

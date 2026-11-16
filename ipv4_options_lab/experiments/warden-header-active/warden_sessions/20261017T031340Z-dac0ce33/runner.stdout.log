@@ -1,0 +1,6 @@
+Starting header warden_header, warden=header; saving in /root/ipv4_options_lab/experiments/warden-header-active
+warden_header: covert trial 867da47f-f5e9-49d6-83ae-5d7d13069ce5 complete
+warden_header: benign-options trial 3f3ab9c1-9e62-4a8a-937b-7a0bd8807650 complete
+warden_header: benign-no-options trial 1d51ab5c-b9e7-4521-9f32-444f56287445 complete
+Analyzed 3 trials; wrote trials.csv, summary.csv, summary.json
+Security alert rates remain unknown where evidence.csv says unknown.

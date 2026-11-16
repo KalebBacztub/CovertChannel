@@ -1,0 +1,16 @@
+{
+  "trial_id": "bdf2a8af-6b77-4ce8-a5b2-12a90a8bf8d1",
+  "condition": "baseline",
+  "traffic": "benign-no-options",
+  "sender": "root@192.168.10.10",
+  "receiver": "root@192.168.20.10",
+  "sender_ip": "192.168.10.10",
+  "receiver_ip": "192.168.20.10",
+  "receiver_iface": "ens18",
+  "message_utf8_sha256": "502914f7ef74db57f5c5cd36db031aef3d2be0836cb67a8679b462e119a98953",
+  "interval_seconds": 0.25,
+  "grace_seconds": 3.0,
+  "defense_note": "none",
+  "config_sha256": null,
+  "started_utc": "2026-09-26T17:13:16Z"
+}

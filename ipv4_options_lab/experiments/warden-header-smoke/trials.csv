@@ -1,0 +1,7 @@
+trial_id,condition,traffic,sent,received_unique,lost,loss_rate,bit_errors,bit_erasures,bit_error_rate_observed,message_success,modified_options,unexpected_options,duplicate_packets,out_of_range_packets,trial_seconds,goodput_bps,security_alert,firewall_drop,rule_match
+2902b0ec-9d7a-462f-b04f-1faedc86f2c9,warden_pass,benign-options,8,8,0,0.0,,,,,0,0,0,0,41.75881658997969,,,,
+2b7de155-603b-4292-b13f-fe230468e1af,warden_pass,covert,8,8,0,0.0,0,0,0.0,True,0,0,0,0,41.758451054018224,0.1915779871636354,,,
+775dac28-e75d-4f2e-b4eb-d689f7c77d82,warden_pass,benign-no-options,8,8,0,0.0,,,,,0,0,0,0,41.757545842032414,,,,
+87ba8451-1d31-405d-8486-3aed351356a4,warden_pass,benign-no-options,8,8,0,0.0,,,,,0,0,0,0,41.758123001025524,,,,
+c856160f-25bc-4aad-82d5-4b48e4a795ed,warden_pass,covert,8,8,0,0.0,0,0,0.0,True,0,0,0,0,41.76249219599413,0.19155944914531137,,,
+d52cf630-6287-4343-8c36-db51a6f1a72f,warden_pass,benign-options,8,8,0,0.0,,,,,0,0,0,0,41.76117194799008,,,,

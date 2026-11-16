@@ -1,0 +1,6 @@
+Starting header warden_pass, warden=passthrough; saving in /root/ipv4_options_lab/experiments/warden-header-smoke
+warden_pass: covert trial 2b7de155-603b-4292-b13f-fe230468e1af complete
+warden_pass: benign-options trial 2902b0ec-9d7a-462f-b04f-1faedc86f2c9 complete
+warden_pass: benign-no-options trial 87ba8451-1d31-405d-8486-3aed351356a4 complete
+Analyzed 6 trials; wrote trials.csv, summary.csv, summary.json
+Security alert rates remain unknown where evidence.csv says unknown.
